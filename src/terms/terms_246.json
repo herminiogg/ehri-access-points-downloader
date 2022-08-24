@@ -1,0 +1,2678 @@
+{
+  "data" : {
+    "Repository" : {
+      "id" : "nl-003006",
+      "documentaryUnits" : {
+        "items" : [ {
+          "children" : {
+            "items" : [ {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "honger"
+                    }, {
+                      "name" : "rantsoen"
+                    }, {
+                      "name" : "kinderen"
+                    }, {
+                      "name" : "zwijgen"
+                    }, {
+                      "name" : "Stichting Verhalis"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Jeroen Neus (Camera) Stichting Verhalis"
+                    }, {
+                      "name" : "Carine van Vugt (interviewer), stichting Verhalis"
+                    }, {
+                      "name" : "Prinsengracht"
+                    }, {
+                      "name" : "opvang"
+                    }, {
+                      "name" : "bevrijdingsdag"
+                    }, {
+                      "name" : "onderduikers"
+                    }, {
+                      "name" : "schuilkelder"
+                    }, {
+                      "name" : "geloof"
+                    }, {
+                      "name" : "voedseltochten"
+                    }, {
+                      "name" : "oorlog"
+                    }, {
+                      "name" : "Tamar van der Niet (transscriptie) (studente Radboud Universiteit)."
+                    }, {
+                      "name" : "Marjet Derks (correctie transscripties) docent Radboud Universiteit en historica"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "kloosterzusters"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "kloosterorden"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "zusters"
+                    }, {
+                      "name" : "kloosters"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "ziekenhuizen"
+                    }, {
+                      "name" : "Canadezen"
+                    }, {
+                      "name" : "opvang"
+                    }, {
+                      "name" : "bombardement"
+                    }, {
+                      "name" : "kloosterzusters"
+                    }, {
+                      "name" : "zusters"
+                    }, {
+                      "name" : "kloosters"
+                    }, {
+                      "name" : "kloosterorden"
+                    }, {
+                      "name" : "Roermond, Limburg"
+                    }, {
+                      "name" : "Groningen"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Stichting Verhalis"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "liefde"
+                    }, {
+                      "name" : "voedseltocht"
+                    }, {
+                      "name" : "Marjet Derks (correctie transscripties) docent Radboud Universiteit en historica"
+                    }, {
+                      "name" : "Thijs de Leeuw (transscriptie) (student Radboud Universiteit)."
+                    }, {
+                      "name" : "Jeroen Neus (Camera) Stichting Verhalis"
+                    }, {
+                      "name" : "Carine van Vugt (interviewer), stichting Verhalis"
+                    }, {
+                      "name" : "schuilkelder"
+                    }, {
+                      "name" : "geloof"
+                    }, {
+                      "name" : "evacuatie"
+                    }, {
+                      "name" : "onderduikers"
+                    }, {
+                      "name" : "schoolhuis"
+                    }, {
+                      "name" : "Roermond"
+                    }, {
+                      "name" : "oorlog"
+                    }, {
+                      "name" : "Tilburg"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Jeroen Neus (Camera) Stichting Verhalis"
+                    }, {
+                      "name" : "Carine van Vugt (interviewer), stichting Verhalis"
+                    }, {
+                      "name" : "Marjet Derks (correctie transscripties) docent Radboud Universiteit en historica"
+                    }, {
+                      "name" : "Tamar van der Niet (transscriptie) (studente Radboud Universiteit)."
+                    }, {
+                      "name" : "aarle-rixtel"
+                    }, {
+                      "name" : "oorlog"
+                    }, {
+                      "name" : "Stichting Verhalis"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "treinreis"
+                    }, {
+                      "name" : "inkwartiering"
+                    }, {
+                      "name" : "schouwburg"
+                    }, {
+                      "name" : "razzia's"
+                    }, {
+                      "name" : "geloof"
+                    }, {
+                      "name" : "schuilkelder"
+                    }, {
+                      "name" : "onderduikers"
+                    }, {
+                      "name" : "bevrijdingsdag"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "opvang"
+                    }, {
+                      "name" : "kloosters"
+                    }, {
+                      "name" : "kloosterorden"
+                    }, {
+                      "name" : "kloosterzusters"
+                    }, {
+                      "name" : "zusters"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Aarle-Rixtel, Noord-Brabant"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Den Haag, Zuid-Holland"
+                    }, {
+                      "name" : "Eindhoven, Noord-Brabant"
+                    }, {
+                      "name" : "Venlo, Limburg"
+                    }, {
+                      "name" : "Stichting Verhalis ©"
+                    }, {
+                      "name" : "ziekenzorg"
+                    }, {
+                      "name" : "voedseltochten"
+                    }, {
+                      "name" : "jodenster"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "liefde"
+                    }, {
+                      "name" : "oorlog"
+                    }, {
+                      "name" : "schuilkelder"
+                    }, {
+                      "name" : "geloof"
+                    }, {
+                      "name" : "bombardement"
+                    }, {
+                      "name" : "onderduikers"
+                    }, {
+                      "name" : "ziekenhuis"
+                    }, {
+                      "name" : "opvang"
+                    }, {
+                      "name" : "venlo"
+                    }, {
+                      "name" : "ziekenhuizen"
+                    }, {
+                      "name" : "kloosterorden"
+                    }, {
+                      "name" : "kloosters"
+                    }, {
+                      "name" : "zusters"
+                    }, {
+                      "name" : "kloosterzusters"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "schuilkelder"
+                    }, {
+                      "name" : "Tilburg"
+                    }, {
+                      "name" : "veluwe"
+                    }, {
+                      "name" : "Utrecht"
+                    }, {
+                      "name" : "luchtalarm"
+                    }, {
+                      "name" : "nsb"
+                    }, {
+                      "name" : "evacuatie"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Stichting Verhalis"
+                    }, {
+                      "name" : "Carine van Vugt (interviewer), stichting Verhalis"
+                    }, {
+                      "name" : "Jeroen Neus (Camera) Stichting Verhalis"
+                    }, {
+                      "name" : "Kor Bosch (transscriptie) (studente Radboud Universiteit)"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Dussen"
+                    }, {
+                      "name" : "Made, Noord-Brabant"
+                    }, {
+                      "name" : "Tilburg, Noord-Brabant"
+                    }, {
+                      "name" : "kloosters"
+                    }, {
+                      "name" : "zusters"
+                    }, {
+                      "name" : "kloosterzusters"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "opvang"
+                    }, {
+                      "name" : "arnhem"
+                    }, {
+                      "name" : "ziekenhuizen"
+                    }, {
+                      "name" : "kloosterorden"
+                    }, {
+                      "name" : "geloof"
+                    }, {
+                      "name" : "bevrijdingsdag"
+                    }, {
+                      "name" : "klarenbeek"
+                    }, {
+                      "name" : "market garden"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Noord-Limburg"
+                    }, {
+                      "name" : "in de oorlogsjaren 1943 tot 1945"
+                    }, {
+                      "name" : "Tienray"
+                    }, {
+                      "name" : "zaakvoerder"
+                    }, {
+                      "name" : "bonbriefje"
+                    }, {
+                      "name" : "Boerenbond"
+                    }, {
+                      "name" : "Oirlo"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Razzia"
+                    }, {
+                      "name" : "Socio-cultural sciences"
+                    }, {
+                      "name" : "Benny Weijand"
+                    }, {
+                      "name" : "Lohre Terhoch"
+                    }, {
+                      "name" : "onderscheiden"
+                    }, {
+                      "name" : "Karel Weijand"
+                    }, {
+                      "name" : "Marijn Poels Films"
+                    }, {
+                      "name" : "Rene Poels (interviewer)"
+                    }, {
+                      "name" : "Hanna Prins"
+                    }, {
+                      "name" : "LGOG Maastricht ©"
+                    }, {
+                      "name" : "Marijn Poels (Camera / geluid)"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Durchgangslager"
+                    }, {
+                      "name" : "sterfte"
+                    }, {
+                      "name" : "naoorlogse tijd (ruim)"
+                    }, {
+                      "name" : "Schiedam"
+                    }, {
+                      "name" : "Theresienstadt"
+                    }, {
+                      "name" : "Barneveld"
+                    }, {
+                      "name" : "Schiedam"
+                    }, {
+                      "name" : "Radboud University Nijmegen, Faculty of Religious Studies"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "ziel"
+                    }, {
+                      "name" : "levenslessen"
+                    }, {
+                      "name" : "neurologie"
+                    }, {
+                      "name" : "carrière"
+                    }, {
+                      "name" : "promoveren"
+                    }, {
+                      "name" : "studeren"
+                    }, {
+                      "name" : "hoogleraar"
+                    }, {
+                      "name" : "school"
+                    }, {
+                      "name" : "repatriëring"
+                    }, {
+                      "name" : "Israël"
+                    }, {
+                      "name" : "Palestina"
+                    }, {
+                      "name" : "Zion's haat"
+                    }, {
+                      "name" : "SS"
+                    }, {
+                      "name" : "Nederlandse politie"
+                    }, {
+                      "name" : "moed (gebrek aan)"
+                    }, {
+                      "name" : "aanpassingsvermogen"
+                    }, {
+                      "name" : "veerkacht"
+                    }, {
+                      "name" : "vrijheidsgevoel"
+                    }, {
+                      "name" : "schuldgevoelens"
+                    }, {
+                      "name" : "verdringing"
+                    }, {
+                      "name" : "overleven"
+                    }, {
+                      "name" : "weerbaarheid"
+                    }, {
+                      "name" : "onzekerheid"
+                    }, {
+                      "name" : "angst"
+                    }, {
+                      "name" : "psychiatrie"
+                    }, {
+                      "name" : "nazi's"
+                    }, {
+                      "name" : "het kwaad"
+                    }, {
+                      "name" : "Bildung"
+                    }, {
+                      "name" : "Europese culturen"
+                    }, {
+                      "name" : "Duitstaligheid"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    }, {
+                      "name" : "joods"
+                    }, {
+                      "name" : "antisemitisme"
+                    }, {
+                      "name" : "tweede wereldoorlog"
+                    }, {
+                      "name" : "valse persoonsbewijzen"
+                    }, {
+                      "name" : "Joods Lyceum"
+                    }, {
+                      "name" : "Sperre"
+                    }, {
+                      "name" : "Barneveldgroep"
+                    }, {
+                      "name" : "lijst Frederiks"
+                    }, {
+                      "name" : "bar mitswa"
+                    }, {
+                      "name" : "woordenboek (Hebreeuws-Nederlands)"
+                    }, {
+                      "name" : "geelzucht"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "ordonnans"
+                    }, {
+                      "name" : "Theresienstadt"
+                    }, {
+                      "name" : "treinreis"
+                    }, {
+                      "name" : "veewagens"
+                    }, {
+                      "name" : "chaos"
+                    }, {
+                      "name" : "aankomst Theresienstadt"
+                    }, {
+                      "name" : "verblijf Theresienstadt"
+                    }, {
+                      "name" : "bevrijding Theresienstadt"
+                    }, {
+                      "name" : "registratie"
+                    }, {
+                      "name" : "doorgangskamp"
+                    }, {
+                      "name" : "transporten"
+                    }, {
+                      "name" : "deportatie"
+                    }, {
+                      "name" : "getto"
+                    }, {
+                      "name" : "Hamburger kazerne"
+                    }, {
+                      "name" : "zolder"
+                    }, {
+                      "name" : "Entwesung"
+                    }, {
+                      "name" : "paarden"
+                    }, {
+                      "name" : "kolen scheppen"
+                    }, {
+                      "name" : "Russen"
+                    }, {
+                      "name" : "ziekte"
+                    }, {
+                      "name" : "zionisme"
+                    }, {
+                      "name" : "davidster"
+                    }, {
+                      "name" : "jodendom"
+                    }, {
+                      "name" : "spirituele erfenis"
+                    }, {
+                      "name" : "liberaal"
+                    }, {
+                      "name" : "ouders"
+                    }, {
+                      "name" : "vader"
+                    }, {
+                      "name" : "moeder"
+                    }, {
+                      "name" : "bescherming"
+                    }, {
+                      "name" : "rolmodel"
+                    }, {
+                      "name" : "cavalerie"
+                    }, {
+                      "name" : "non verbale communicatie"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "ouders"
+                    }, {
+                      "name" : "Eindhoven"
+                    }, {
+                      "name" : "Zwitserland"
+                    }, {
+                      "name" : "Theresienstadt"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "Barneveld"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "Den Haag"
+                    }, {
+                      "name" : "Radboud University Nijmegen, Faculty of Religious Studies"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "liefde"
+                    }, {
+                      "name" : "weerzien"
+                    }, {
+                      "name" : "voorbestemd"
+                    }, {
+                      "name" : "repatriëring"
+                    }, {
+                      "name" : "tyfus"
+                    }, {
+                      "name" : "ontluizing"
+                    }, {
+                      "name" : "verblijf Zwitserland"
+                    }, {
+                      "name" : "aankomst Zwitserland"
+                    }, {
+                      "name" : "vertrek Theresienstadt"
+                    }, {
+                      "name" : "transport Zwitserland"
+                    }, {
+                      "name" : "Sokolovna"
+                    }, {
+                      "name" : "afscheid"
+                    }, {
+                      "name" : "oproep"
+                    }, {
+                      "name" : "pannenkoek"
+                    }, {
+                      "name" : "gaskamers"
+                    }, {
+                      "name" : "Südbaracken"
+                    }, {
+                      "name" : "Glimmer"
+                    }, {
+                      "name" : "Holtzplatz"
+                    }, {
+                      "name" : "Marktplatz"
+                    }, {
+                      "name" : "zekerheid"
+                    }, {
+                      "name" : "aanpassingsvermogen"
+                    }, {
+                      "name" : "boeken"
+                    }, {
+                      "name" : "lezen"
+                    }, {
+                      "name" : "talentalent"
+                    }, {
+                      "name" : "tsjechisch"
+                    }, {
+                      "name" : "duitstaligheid"
+                    }, {
+                      "name" : "toneelrol"
+                    }, {
+                      "name" : "toneelvoorstellingen"
+                    }, {
+                      "name" : "ziekte"
+                    }, {
+                      "name" : "kamer"
+                    }, {
+                      "name" : "zolder"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    }, {
+                      "name" : "joods"
+                    }, {
+                      "name" : "antisemitisme"
+                    }, {
+                      "name" : "tweede wereldoorlog"
+                    }, {
+                      "name" : "Joods Lyceum"
+                    }, {
+                      "name" : "eindexamen"
+                    }, {
+                      "name" : "volwassen"
+                    }, {
+                      "name" : "zusjes"
+                    }, {
+                      "name" : "broertje"
+                    }, {
+                      "name" : "Barneveldgroep"
+                    }, {
+                      "name" : "De Schaffelaar"
+                    }, {
+                      "name" : "lijst Frederiks"
+                    }, {
+                      "name" : "personentrein"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "doorgangskamp"
+                    }, {
+                      "name" : "Durchgangslager"
+                    }, {
+                      "name" : "trouwfeesten"
+                    }, {
+                      "name" : "werk"
+                    }, {
+                      "name" : "batterijen splitsen"
+                    }, {
+                      "name" : "confectie-afdeling"
+                    }, {
+                      "name" : "stoffen beestjes"
+                    }, {
+                      "name" : "voedsel"
+                    }, {
+                      "name" : "aardappels"
+                    }, {
+                      "name" : "pakketjes"
+                    }, {
+                      "name" : "revue"
+                    }, {
+                      "name" : "sport"
+                    }, {
+                      "name" : "handbal"
+                    }, {
+                      "name" : "vrije tijd"
+                    }, {
+                      "name" : "verliefdheid"
+                    }, {
+                      "name" : "verkering"
+                    }, {
+                      "name" : "vriend"
+                    }, {
+                      "name" : "kameraad"
+                    }, {
+                      "name" : "vriendenkring"
+                    }, {
+                      "name" : "optimisme"
+                    }, {
+                      "name" : "leven bij de dag"
+                    }, {
+                      "name" : "transport XXIV/7"
+                    }, {
+                      "name" : "treinreis"
+                    }, {
+                      "name" : "veewagen"
+                    }, {
+                      "name" : "heimwee Nederland"
+                    }, {
+                      "name" : "bagage"
+                    }, {
+                      "name" : "kleding"
+                    }, {
+                      "name" : "aankomst Theresienstadt"
+                    }, {
+                      "name" : "verblijf Theresienstadt"
+                    }, {
+                      "name" : "registratie"
+                    }, {
+                      "name" : "Hamburger kazerne"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Bombing, Amsterdam North, Jungle, military service, mobilization, casern, Fokker factory, Ritakerk, Stephanuskerk, Higher education, Public Health, Doctor Haga, nurse, door maid, hospitals, bodies, skipper, communists, socialists, anti social people, solidarity, fire bomb, alarm, anxiety, funeral, prayer, curfew, underground resistance, anti aircraft defence service, forced labour, service examination, transport, station, Berlin, letters, railway strike, take refuge, help services, National Socialist Movement, clog coupon, doctor’s practice, hunger, resistance, Shell, razzes, food comity, rancour, anti air raid hiding, hatred, Russians, central public kitchen, enemy, head shaving, labour service, dismissing, Jew, rebuilding"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Bombardement, Amsterdam Noord, Rimboe, dienst, mobilisatie, kazerne, Fokkerfabrieken, Ritakerk, Stephanuskerk, Mulo, GGD, Dokter Haga, zuster, bellemeisje, ziekenhuizen, lijken, schipper, communisten, socialisten, asocialen, solidariteit, brandbom, alarm, angst, begrafenis, gebed, avondklok, ondergrondse, luchtbeschermingsdienst, dwangarbeid, keuren, transport, station, Berlijn, brieven, spoorwegstaking, vluchten, hulpdiensten, NSB, klompenbon, dokterspraktijk, honger, verzet, Shell, razzia, voedselcomité, rancune, schuilkelder, haat, Russen, gaarkeuken, angst, kaalscheren, arbeidsdienst, ontslag, Jood, wederopbouw"
+                    }, {
+                      "name" : "Peter Brugman, Director of photography"
+                    }, {
+                      "name" : "Stichting Historisch Centrum Amsterdam Noord"
+                    }, {
+                      "name" : "Marije Schuurman Hess, Radio- en Geluidsproducties"
+                    }, {
+                      "name" : "Juli 1943"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Amsterdam Noord"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Tamar van der Niet (transscriptie) (studente Radboud Universiteit)"
+                    }, {
+                      "name" : "Thijs de Leeuw (transscriptie) (student Radboud Universiteit)"
+                    }, {
+                      "name" : "Marjet Derks (correctie transscripties) docent Radboud Universiteit en historica"
+                    }, {
+                      "name" : "Carine van Vugt (interviewer), Stichting Verhalis"
+                    }, {
+                      "name" : "Jeroen Neus (Camera) Stichting Verhalis"
+                    }, {
+                      "name" : "Kor Bosch (transscriptie) (studente Radboud Universiteit)"
+                    }, {
+                      "name" : "Lize Noorda (transscriptie) (studente Radboud Universiteit)"
+                    }, {
+                      "name" : "kloosterorden"
+                    }, {
+                      "name" : "lazaret"
+                    }, {
+                      "name" : "onderduikers"
+                    }, {
+                      "name" : "Stichting Verhalis"
+                    }, {
+                      "name" : "erfgoed van de oorlog"
+                    }, {
+                      "name" : "getuigen verhalen"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "kloosterzusters"
+                    }, {
+                      "name" : "Roermond, Limburg"
+                    }, {
+                      "name" : "Made, Noord-Brabant"
+                    }, {
+                      "name" : "Groningen"
+                    }, {
+                      "name" : "Dussen, Noord-Brabant"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Venlo, Limburg"
+                    }, {
+                      "name" : "Tilburg, Noord-Brabant"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Aarle-Rixtel, Noord-Brabant"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Aruba"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Aanval op Aruba 16 februari 1942"
+                    }, {
+                      "name" : "Aruba"
+                    }, {
+                      "name" : "Duitse geïnterneerden"
+                    }, {
+                      "name" : "Kwajongensstreken"
+                    }, {
+                      "name" : "Rebecca Roos (Transcriptie, vertaling en ondertiteling)"
+                    }, {
+                      "name" : "Jado Maduro (line producer)"
+                    }, {
+                      "name" : "Torpedo ongeluk Eagle Beach"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Fundacion Amigonan Di Archivo"
+                    }, {
+                      "name" : "Edric Croes (onderzoek en interview)"
+                    }, {
+                      "name" : "Rebecca Roos (producent en interview)"
+                    }, {
+                      "name" : "Igmar Maduro (Camera)"
+                    }, {
+                      "name" : "Elvis Tromp (audio)"
+                    }, {
+                      "name" : "Cydric Oduber (make-up)"
+                    }, {
+                      "name" : "Lago"
+                    }, {
+                      "name" : "Nazi sympathisanten"
+                    }, {
+                      "name" : "Nederlandse militairen"
+                    }, {
+                      "name" : "Savaneta kamp"
+                    }, {
+                      "name" : "Schutters"
+                    }, {
+                      "name" : "Schutterij"
+                    }, {
+                      "name" : "Schutterstaking"
+                    }, {
+                      "name" : "Torpedering"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Netherlands"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Oral History"
+                    }, {
+                      "name" : "Socio-cultural sciences"
+                    }, {
+                      "name" : "LGOG Maastricht ©"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Triumph"
+                    }, {
+                      "name" : "Anna May Wong"
+                    }, {
+                      "name" : "Collectie Jan Carel Warffemius"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Jan Carel Warffemius"
+                    }, {
+                      "name" : "Hotel Central"
+                    }, {
+                      "name" : "Zarah Leander"
+                    }, {
+                      "name" : "Pop en Do"
+                    }, {
+                      "name" : "Verstoorde Balmasqué"
+                    }, {
+                      "name" : "Anna Paulownastraat"
+                    }, {
+                      "name" : "NieuweSchoolstraat"
+                    }, {
+                      "name" : "Achterom"
+                    }, {
+                      "name" : "bioscoop"
+                    }, {
+                      "name" : "Cineac"
+                    }, {
+                      "name" : "Buitenhof"
+                    }, {
+                      "name" : "urinoir"
+                    }, {
+                      "name" : "Obrechtstraat"
+                    }, {
+                      "name" : "poeierdozen"
+                    }, {
+                      "name" : "Sauna Scheers"
+                    }, {
+                      "name" : "Palingkoning"
+                    }, {
+                      "name" : "Café Nol"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Den Haag,Zuid-Holland"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Welzheim,Duitsland"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Velserbeek,Noord-Holland"
+                    }, {
+                      "name" : "Collectie Jan Carel Warffemius"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Keizersgracht"
+                    }, {
+                      "name" : "Concentratiekamp"
+                    }, {
+                      "name" : "Razzia"
+                    }, {
+                      "name" : "Württemberg"
+                    }, {
+                      "name" : "Welzheim"
+                    }, {
+                      "name" : "Vonk"
+                    }, {
+                      "name" : "communist"
+                    }, {
+                      "name" : "Joodse homoseksueel"
+                    }, {
+                      "name" : "NSB"
+                    }, {
+                      "name" : "Velserbeek"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Jan Carel Warffemius"
+                    }, {
+                      "name" : "Peter Voorn"
+                    }, {
+                      "name" : "Gerrie Verbruggen"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Collectie Jan Carel Warffemius"
+                    }, {
+                      "name" : "Ferry Offerman"
+                    }, {
+                      "name" : "kuchel"
+                    }, {
+                      "name" : "Jan Lap"
+                    }, {
+                      "name" : "Bouber gezelschap"
+                    }, {
+                      "name" : "Clothilde"
+                    }, {
+                      "name" : "Amalia"
+                    }, {
+                      "name" : "Otto Langer"
+                    }, {
+                      "name" : "bondwerker"
+                    }, {
+                      "name" : "Fred Mobilie"
+                    }, {
+                      "name" : "Mooie Hennie,Mooie Lowietje, Mooie Bennie"
+                    }, {
+                      "name" : "Peter de Boer"
+                    }, {
+                      "name" : "Godfried de Groot"
+                    }, {
+                      "name" : "Berlijn"
+                    }, {
+                      "name" : "Joop en Rien Zalmstra"
+                    }, {
+                      "name" : "Haring Arie"
+                    }, {
+                      "name" : "Zwemmeester Lou Charité"
+                    }, {
+                      "name" : "Theo Wessels"
+                    }, {
+                      "name" : "Felix van Kleef"
+                    }, {
+                      "name" : "Robert van Messel"
+                    }, {
+                      "name" : "Heiligeweg zwembad"
+                    }, {
+                      "name" : "Jackie Moscou"
+                    }, {
+                      "name" : "Arbeidsinzet"
+                    }, {
+                      "name" : "Tante Mietje van Kleef"
+                    }, {
+                      "name" : "Heck's"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Amsterdam,Noord-Holland"
+                    }, {
+                      "name" : "Berlijn,Duitsland"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Collectie Jan Carel Warffemius"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Collectie Jan Carel Warffemius"
+                    }, {
+                      "name" : "Cor Ferwerda"
+                    }, {
+                      "name" : "Wim van der Meer."
+                    }, {
+                      "name" : "Ab de Snoo"
+                    }, {
+                      "name" : "Adolphe Engers"
+                    }, {
+                      "name" : "Baron Charles IJssel de Schepper"
+                    }, {
+                      "name" : "Toni Toso"
+                    }, {
+                      "name" : "Theo van der Post"
+                    }, {
+                      "name" : "Alphons Baron de Vos van Steenwijk"
+                    }, {
+                      "name" : "Ocker Repelaer"
+                    }, {
+                      "name" : "Bram Rouville de Meux"
+                    }, {
+                      "name" : "Willy Fruin"
+                    }, {
+                      "name" : "Wim Duparc"
+                    }, {
+                      "name" : "Henk Vermeulen"
+                    }, {
+                      "name" : "L A Ries"
+                    }, {
+                      "name" : "Cees Konijn"
+                    }, {
+                      "name" : "Jacob Hiegentlich"
+                    }, {
+                      "name" : "Peter van Anrooij"
+                    }, {
+                      "name" : "Max Cohen"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Den Haag, Zuid-Holland"
+                    }, {
+                      "name" : "Eddy Post"
+                    }, {
+                      "name" : "Contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Peter Brugman, Director of photography"
+                    }, {
+                      "name" : "Marije Schuurman Hess, Radio- en Geluidsproducties,"
+                    }, {
+                      "name" : "Stichting Historisch Centrum Amsterdam Noord"
+                    }, {
+                      "name" : "Bombing, Amsterdam North, Ritakerk, summer day, party dress, Zuiderkerk, rescuer, girls family, mother, confess, ceremony, crazy, niece, post office, hospitals, sorrow, food distribution voucher fraud, food, area, darkening, Fokker factory, Jewish people, Hollandia Kattenburg, NSM-children, go into hiding, hunger winter, fear, fly, war now, fire bomb, phosphor bomb, war pilot, pitch, air-raid-warning, air-raid-hiding, bomb crater, flowers, docs, aunt, holidays, victims, send outside, grit, stolen, school, fly suitcase, fireworks, psychiatrist, depression, English radio, street play, hunger winter, ferries, pontoon bridge, work, sugar beet, National Socialist Movement"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Bombardement, Amsterdam Noord, Ritakerk, zomerdag, feestjurk, Zuiderkerk, reddingswerker, meisjesgezin, moeder, biechten, mis, waanzinnig, nichtje, postkantoor, ziekenhuizen, verdriet, bonnen smiechelen, eten, verduistering, buurt, Fokkerfabriek, Joodse mensen, Hollandia Kattenburg, NSB-kinderen, onderduikers, hongerwinter, angst, vluchten, hedendaagse oorlogen, brandbommen, fosforbommen, oorlogsvlieger, pek, luchtalarm, bominslag, gruis, bloemen, dokken, tante, vakantie, doden, opgevangen, gestolen, naar buiten gestuurd, school, vluchtkoffertje, vuurwerk, psychiater, schuilkelder, NSB, Joden, omgekomen, depressie, carbidlamp, Engelse radio, straatspelletjes, hongerwinter, ponten, pontons, werken, suikerbiet"
+                    }, {
+                      "name" : "Juli 1943"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Amsterdam Noord"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Juli 1943"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Amsterdam Noord"
+                    }, {
+                      "name" : "Bombing, Amsterdam North, Fokker factory, bombs, camouflage, danger, family, Dutch Reformed Church, grandfather, children, Public Transport, ferries, pontoon bridge, radio, radio distribution, sender, National Socialist Movement, Jews, go into hiding, tobacco, air-raid-warning, air-raid-hiding, anti aircraft shooting, air planes, die, wounded, grit piles, school, holidays, residential area, apartment, direct hit, factory, air pressure, windows, door, screaming, fright, cry, tension, pharmacy, doctor, assistant, leave, fire, liberation, festivities, razzes, Ausweis, church, explosion, Lysol, parachutist, rebuilding, Hollandia Kattenburg, betrayal, Germans, English, food distribution, railway strike, punishment"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Bombardement, Amsterdam Noord, Fokker, camouflage, gevaar, gezin, Gereformeerd, opa, kinderen, Gemeente Vervoer Bedrijf, ponten, pontonbrug, radio, radiodistributie, zender, NSB, Joods, onderduikers, tabak, luchtalarm, luchtafweer, vliegtuig, bommen, omkomen, gewonden, puinhopen, school, vakantie, woonwijk, bovenhuis, voltreffer, fabriek, luchtdruk, ramen, deur, gillen, angst, huilen, spanning, apotheek, dokter, assistente, weggaan, brand, bevrijding, feestdag, razzia, Ausweis, kerk, schuilkelder, explosie, lysol, parachutist, herbouw, Hollandia Kattenburg, verraad, Duitsers, Engels, eten, voedselpakket, spoorwegstaking, straf"
+                    }, {
+                      "name" : "Peter Brugman, Director of photography"
+                    }, {
+                      "name" : "Stichting Historisch Centrum Amsterdam Noord"
+                    }, {
+                      "name" : "Marije Schuurman Hess, Radio- en Geluidsproducties"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Joodse man"
+                    }, {
+                      "name" : "Joodse Markt"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    }, {
+                      "name" : "Amsterdam"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Stichting Historisch Centrum Amsterdam Noord"
+                    }, {
+                      "name" : "Marije Schuurman Hess, Radio- en Geluidsproducties"
+                    }, {
+                      "name" : "Peter Brugman, Director of photography"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Bombing, Amsterdam North, Ritakerk, special mass, alarm, bomb crater, ruins, grit piles, dirty smell, fire, bodies, air-raid-hiding, naval inspection, shop, Jews home, farm, food, fuel, electricity, NSB members, Hiltlerjugend, propaganda, air raid alarm, panic, German officers, desertion, Euterpestraat, Camp Vught, nuns, to express yourself, memorial service, toys, altar boy, cloister, bury, exhume, boys school, girls school, Fokker factory, camouflage, raids, shooting, blood, men’s side, women’s side"
+                    }, {
+                      "name" : "Bombardement, Amsterdam Noord, Ritakerk, feestdienst, alarm, ravage, vieze lucht, puinhopen, brand, lichamen, schuilkelder, scheepvaartinspectie, winkel, Jodenwoning, boerderij, eten, brandstof, stroom, bruinhemden, Hitlerjugend, propaganda, luchtalarm, paniek, Duitse officieren, deserteren, Euterpestraat, Kamp Vught, nonnen, zich uiten, herdenking, speelgoed, misdienaar, klooster, begraven, opgraven, jongensschool, meidenschool, Fokkerfabriek, gecamoufleerd, razzia, geschoten, bloed, mannenkant, vrouwenkant"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Juli 1943"
+                    }, {
+                      "name" : "Amsterdam Noord"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "KNIL"
+                    }, {
+                      "name" : "KL"
+                    }, {
+                      "name" : "kolonialisme / colonialism"
+                    }, {
+                      "name" : "koloniën / colonies"
+                    }, {
+                      "name" : "militaire geschiedenis / military history"
+                    }, {
+                      "name" : "naoorlogse periode / after war period"
+                    }, {
+                      "name" : "Bersiap"
+                    }, {
+                      "name" : "oorlogsslachtoffers / war victims"
+                    }, {
+                      "name" : "baboe’s / nannies"
+                    }, {
+                      "name" : "soldatenliefjes / soldiers sweetheart"
+                    }, {
+                      "name" : "oorlogskinderen / warchildren"
+                    }, {
+                      "name" : "Indo"
+                    }, {
+                      "name" : "Indisch / Indien"
+                    }, {
+                      "name" : "onbekende vaders / unknown fathers"
+                    }, {
+                      "name" : "veteranen / veterans"
+                    }, {
+                      "name" : "repatriëring / repatriate"
+                    }, {
+                      "name" : "Stichting Oorlogsliefdekind © - Hellwig, Jean / Wietsma, Annegriet"
+                    }, {
+                      "name" : "soldatenkind / military child"
+                    }, {
+                      "name" : "Stef Scagliola"
+                    }, {
+                      "name" : "Annegriet Wietsma"
+                    }, {
+                      "name" : "Jean Hellwig"
+                    }, {
+                      "name" : "strijdkrachten / forces"
+                    }, {
+                      "name" : "politionele acties / police actions"
+                    }, {
+                      "name" : "seksualiteit / sexuality"
+                    }, {
+                      "name" : "kazerne / barracks"
+                    }, {
+                      "name" : "condoomgebruik / use of condoms"
+                    }, {
+                      "name" : "seksuele voorlichting / sex education"
+                    }, {
+                      "name" : "soldatenvader / military father"
+                    }, {
+                      "name" : "geslachtsziektes / venereal diseases"
+                    }, {
+                      "name" : "oorlogsliefdes / warloves"
+                    }, {
+                      "name" : "koloniale oorlog / colonial war"
+                    }, {
+                      "name" : "Nederlandse militairen / Dutch military"
+                    }, {
+                      "name" : "1946-1949"
+                    }, {
+                      "name" : "Indonesië / Indonesia"
+                    }, {
+                      "name" : "Nederlands-Indië / Dutch Indies"
+                    }, {
+                      "name" : "vraaggesprek / interview"
+                    }, {
+                      "name" : "orale geschiedenis / oral history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Nederlands Indië / Dutch Indies"
+                    }, {
+                      "name" : "Indonesië / Indonesia"
+                    }, {
+                      "name" : "Nederland / The Netherlands"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Anne Frank Stichting ©"
+                    }, {
+                      "name" : "getuigen verhalen"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "erfgoed van de oorlog"
+                    }, {
+                      "name" : "Modern history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Sander Snoep"
+                    }, {
+                      "name" : "Loes Gompes"
+                    }, {
+                      "name" : "Resistance"
+                    }, {
+                      "name" : "Jewry"
+                    }, {
+                      "name" : "Lumen Film ©"
+                    }, {
+                      "name" : "Cesar Messemaker"
+                    }, {
+                      "name" : "erfgoed van de oorlog"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "getuigen verhalen"
+                    }, {
+                      "name" : "The Netherlands"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Nederland"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Kerken"
+                    }, {
+                      "name" : "gereformeerden"
+                    }, {
+                      "name" : "onderwijs"
+                    }, {
+                      "name" : "Vrijmaking"
+                    }, {
+                      "name" : "Amersfoort"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Remco Andersen, Adremco Copywriting and Photography"
+                    }, {
+                      "name" : "communisten"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Historisch Documentatiecentrum voor het Nederlands Protestantisme (©)"
+                    }, {
+                      "name" : "Drs. W.J. Berkelaar (interviewer), HDC"
+                    }, {
+                      "name" : "verzet"
+                    }, {
+                      "name" : "onderduik"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Nationaal-Socialistische Beweging"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "naoorlogse periode"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Theresienstadt"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Radboud University Nijmegen, Faculty of Religious Studies"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "zwijgen"
+                    }, {
+                      "name" : "taboe"
+                    }, {
+                      "name" : "antiquair"
+                    }, {
+                      "name" : "teruggave geroofde kunst"
+                    }, {
+                      "name" : "Verwalter"
+                    }, {
+                      "name" : "levensverhaal"
+                    }, {
+                      "name" : "mensbeeld"
+                    }, {
+                      "name" : "levenslessen"
+                    }, {
+                      "name" : "naoorlogse tijd"
+                    }, {
+                      "name" : "religie"
+                    }, {
+                      "name" : "thuiskomst"
+                    }, {
+                      "name" : "repatriëring"
+                    }, {
+                      "name" : "lerares"
+                    }, {
+                      "name" : "muziek(uitvoeringen)"
+                    }, {
+                      "name" : "poëzie-album (album amicorum)"
+                    }, {
+                      "name" : "versje"
+                    }, {
+                      "name" : "tekenen"
+                    }, {
+                      "name" : "boeken"
+                    }, {
+                      "name" : "lezen"
+                    }, {
+                      "name" : "spelen"
+                    }, {
+                      "name" : "lachen"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    }, {
+                      "name" : "Joods"
+                    }, {
+                      "name" : "antisemitisme"
+                    }, {
+                      "name" : "tweede wereldoorlog"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "transport XXIV/2"
+                    }, {
+                      "name" : "deportatie"
+                    }, {
+                      "name" : "aankomst Theresienstadt"
+                    }, {
+                      "name" : "verblijf Theresienstadt"
+                    }, {
+                      "name" : "bevrijding Theresienstadt"
+                    }, {
+                      "name" : "doorgangskamp"
+                    }, {
+                      "name" : "ghetto"
+                    }, {
+                      "name" : "Hamburger kazerne"
+                    }, {
+                      "name" : "registratie"
+                    }, {
+                      "name" : "Sperre"
+                    }, {
+                      "name" : "treinreis"
+                    }, {
+                      "name" : "Rode Kruis"
+                    }, {
+                      "name" : "Verschönerung"
+                    }, {
+                      "name" : "kampcommandant"
+                    }, {
+                      "name" : "anti-Tsjechisch"
+                    }, {
+                      "name" : "duits(taligheid)"
+                    }, {
+                      "name" : "anti-duits"
+                    }, {
+                      "name" : "Hollanders"
+                    }, {
+                      "name" : "kunstenaarshuis"
+                    }, {
+                      "name" : "kunstenaar(s)"
+                    }, {
+                      "name" : "kinderhospitaal"
+                    }, {
+                      "name" : "tuinbouw"
+                    }, {
+                      "name" : "doktersassistente"
+                    }, {
+                      "name" : "voedsel"
+                    }, {
+                      "name" : "verzorging"
+                    }, {
+                      "name" : "hygiëne"
+                    }, {
+                      "name" : "honger"
+                    }, {
+                      "name" : "werk"
+                    }, {
+                      "name" : "ziekenhuisverblijf"
+                    }, {
+                      "name" : "ziekte"
+                    }, {
+                      "name" : "tekenlessen"
+                    }, {
+                      "name" : "cultuurlessen"
+                    }, {
+                      "name" : "creativiteit"
+                    }, {
+                      "name" : "leergierigheid"
+                    }, {
+                      "name" : "jeugd(igheid)"
+                    }, {
+                      "name" : "moeder"
+                    }, {
+                      "name" : "vader"
+                    }, {
+                      "name" : "vriendschap"
+                    }, {
+                      "name" : "innerlijke schoonheid"
+                    }, {
+                      "name" : "weerbaarheid"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "naoorlogse tijd"
+                    }, {
+                      "name" : "Amsterdam (Amstelveen)"
+                    }, {
+                      "name" : "Zwitserland"
+                    }, {
+                      "name" : "Theresienstadt"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Radboud University Nijmegen, Faculty of Religious Studies"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "zwijgen"
+                    }, {
+                      "name" : "taboe"
+                    }, {
+                      "name" : "levensinstelling"
+                    }, {
+                      "name" : "levensverhaal"
+                    }, {
+                      "name" : "naoorlogs leven"
+                    }, {
+                      "name" : "terugkeer"
+                    }, {
+                      "name" : "bevrijding"
+                    }, {
+                      "name" : "tyfus"
+                    }, {
+                      "name" : "verblijf Zwitserland"
+                    }, {
+                      "name" : "Zwitserlandtransport"
+                    }, {
+                      "name" : "vertrek Theresienstadt"
+                    }, {
+                      "name" : "kleding"
+                    }, {
+                      "name" : "urnen columbarium"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    }, {
+                      "name" : "Joods"
+                    }, {
+                      "name" : "antisemitisme"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "deportatie"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "Sperre"
+                    }, {
+                      "name" : "vader"
+                    }, {
+                      "name" : "moeder"
+                    }, {
+                      "name" : "gedoopte joden"
+                    }, {
+                      "name" : "Sobibor"
+                    }, {
+                      "name" : "revue Westerbork"
+                    }, {
+                      "name" : "weeshuis Westerbork"
+                    }, {
+                      "name" : "strafbarak"
+                    }, {
+                      "name" : "voedsel"
+                    }, {
+                      "name" : "honger"
+                    }, {
+                      "name" : "menstruatie"
+                    }, {
+                      "name" : "liefdesverdriet"
+                    }, {
+                      "name" : "liedjes Westerbork"
+                    }, {
+                      "name" : "naaiatelier"
+                    }, {
+                      "name" : "buitendienst"
+                    }, {
+                      "name" : "seksuele voorlichting"
+                    }, {
+                      "name" : "zus"
+                    }, {
+                      "name" : "oproep"
+                    }, {
+                      "name" : "deportatie"
+                    }, {
+                      "name" : "transport XXIV/7"
+                    }, {
+                      "name" : "treinreis"
+                    }, {
+                      "name" : "angst"
+                    }, {
+                      "name" : "aankomst Thereseinstadt"
+                    }, {
+                      "name" : "verblijf Theresienstadt"
+                    }, {
+                      "name" : "registratie"
+                    }, {
+                      "name" : "Hamburger kazerne"
+                    }, {
+                      "name" : "verzorging"
+                    }, {
+                      "name" : "muziek"
+                    }, {
+                      "name" : "huishoudelijke taken"
+                    }, {
+                      "name" : "houtzagerij"
+                    }, {
+                      "name" : "Kleiderkammer"
+                    }, {
+                      "name" : "uiterlijke verzorging"
+                    }, {
+                      "name" : "voedsel"
+                    }, {
+                      "name" : "honger"
+                    }, {
+                      "name" : "houtzagerij"
+                    }, {
+                      "name" : "schleussen (organisieren)"
+                    }, {
+                      "name" : "familieleven"
+                    }, {
+                      "name" : "creativiteit"
+                    }, {
+                      "name" : "weerbaarheid"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Sittard"
+                    }, {
+                      "name" : "Bamberg"
+                    }, {
+                      "name" : "Pilzen"
+                    }, {
+                      "name" : "Praag"
+                    }, {
+                      "name" : "Theresienstadt"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Radboud University Nijmegen, Faculty of Religious Studies"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "wereldbeeld"
+                    }, {
+                      "name" : "Entschädigung"
+                    }, {
+                      "name" : "pulsen"
+                    }, {
+                      "name" : "naoorlogse tijd"
+                    }, {
+                      "name" : "tyfus"
+                    }, {
+                      "name" : "ossen"
+                    }, {
+                      "name" : "schoenen"
+                    }, {
+                      "name" : "paarden"
+                    }, {
+                      "name" : "Tweede Verschönerung"
+                    }, {
+                      "name" : "voedsel"
+                    }, {
+                      "name" : "weerbaarheid"
+                    }, {
+                      "name" : "Tsjechisch"
+                    }, {
+                      "name" : "nederlands(talig)"
+                    }, {
+                      "name" : "duits(talig)"
+                    }, {
+                      "name" : "boeken"
+                    }, {
+                      "name" : "thuiskomst"
+                    }, {
+                      "name" : "terugreis"
+                    }, {
+                      "name" : "statenloos"
+                    }, {
+                      "name" : "Gedoopte Joden"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    }, {
+                      "name" : "Joods"
+                    }, {
+                      "name" : "antisemitisme"
+                    }, {
+                      "name" : "tweede wereldoorlog"
+                    }, {
+                      "name" : "Westerbork"
+                    }, {
+                      "name" : "gezinshereniging"
+                    }, {
+                      "name" : "alte Lagerinsasse"
+                    }, {
+                      "name" : "doorgangskamp"
+                    }, {
+                      "name" : "vader"
+                    }, {
+                      "name" : "moeder"
+                    }, {
+                      "name" : "broer"
+                    }, {
+                      "name" : "ordonnans"
+                    }, {
+                      "name" : "arts"
+                    }, {
+                      "name" : "polikliniek"
+                    }, {
+                      "name" : "behuizing"
+                    }, {
+                      "name" : "werk"
+                    }, {
+                      "name" : "oproep"
+                    }, {
+                      "name" : "treinreis"
+                    }, {
+                      "name" : "aankomst Theresienstadt"
+                    }, {
+                      "name" : "verblijf Theresienstadt"
+                    }, {
+                      "name" : "Barnevelders"
+                    }, {
+                      "name" : "ghetto"
+                    }, {
+                      "name" : "Hannover kazerne"
+                    }, {
+                      "name" : "Hamburger kazerne"
+                    }, {
+                      "name" : "registratie"
+                    }, {
+                      "name" : "ongedierte"
+                    }, {
+                      "name" : "honger"
+                    }, {
+                      "name" : "werk"
+                    }, {
+                      "name" : "Judenälteste"
+                    }, {
+                      "name" : "oproep"
+                    }, {
+                      "name" : "Glimmer"
+                    }, {
+                      "name" : "afscheid vader"
+                    }, {
+                      "name" : "Jugendheim"
+                    }, {
+                      "name" : "Rode Kruis"
+                    }, {
+                      "name" : "urnen columbarium"
+                    }, {
+                      "name" : "Zwitserlandtransport"
+                    }, {
+                      "name" : "inkomende transporten"
+                    }, {
+                      "name" : "muselmannen"
+                    }, {
+                      "name" : "quarantaine"
+                    }, {
+                      "name" : "boeken"
+                    }, {
+                      "name" : "zionisme"
+                    }, {
+                      "name" : "bevrijding"
+                    }, {
+                      "name" : "Russen"
+                    }, {
+                      "name" : "repatriëring"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Oorlogsliefde"
+                    }, {
+                      "name" : "Seksuele collaboratie"
+                    }, {
+                      "name" : "middenstand"
+                    }, {
+                      "name" : "half-Joods"
+                    }, {
+                      "name" : "Opvoedingsgesticht voor meisjes"
+                    }, {
+                      "name" : "Kinderen Duitse militairen"
+                    }, {
+                      "name" : "Moffenmeiden"
+                    }, {
+                      "name" : "Interneringskampen"
+                    }, {
+                      "name" : "Rotterdam"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Duitsland"
+                    }, {
+                      "name" : "ca 1930-heden"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "Duitse krijgsdienst"
+                    }, {
+                      "name" : "Ordedienst (OD)"
+                    }, {
+                      "name" : "Kinderen foute ouders"
+                    }, {
+                      "name" : "Frederieke Leever (transcriptie)"
+                    }, {
+                      "name" : "Jet Homoet (camera)"
+                    }, {
+                      "name" : "Monika Diederichs, drs. (interview)"
+                    }, {
+                      "name" : "Cogis"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Speeltuin"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Waverstraat"
+                    }, {
+                      "name" : "Angst"
+                    }, {
+                      "name" : "Nieuwmarkt"
+                    }, {
+                      "name" : "Communist"
+                    }, {
+                      "name" : "Verzet"
+                    }, {
+                      "name" : "Niet-Joodse vrouw"
+                    }, {
+                      "name" : "Joodse Markt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Nunspeet"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    }, {
+                      "name" : "erfgoed van de oorlog"
+                    }, {
+                      "name" : "getuigen verhalen"
+                    }, {
+                      "name" : "oral history"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "interneringskamp Vught"
+                    }, {
+                      "name" : "arbeidsinzet"
+                    }, {
+                      "name" : "Concentratiekampen"
+                    }, {
+                      "name" : "oorlogstrauma"
+                    }, {
+                      "name" : "smokkelen"
+                    }, {
+                      "name" : "hulpverlening"
+                    }, {
+                      "name" : "ss-ers"
+                    }, {
+                      "name" : "bevrijding"
+                    }, {
+                      "name" : "bouwvakkers"
+                    }, {
+                      "name" : "voerlieden"
+                    }, {
+                      "name" : "Van Gend en Loos"
+                    }, {
+                      "name" : "Van Esch"
+                    }, {
+                      "name" : "Van Geloven"
+                    }, {
+                      "name" : "Otto Herzberg"
+                    }, {
+                      "name" : "Dolle Dinsdag"
+                    }, {
+                      "name" : "naoorlogse periode"
+                    }, {
+                      "name" : "bevrijding"
+                    }, {
+                      "name" : "crematorium"
+                    }, {
+                      "name" : "kalkkuil"
+                    }, {
+                      "name" : "mishandelingen"
+                    }, {
+                      "name" : "schietongeluk mitrailleur"
+                    }, {
+                      "name" : "bunkerdrama vught"
+                    }, {
+                      "name" : "Philips"
+                    }, {
+                      "name" : "Zuster Hulsman"
+                    }, {
+                      "name" : "Charlotte van Beuningen-Fentener van Vlissingen"
+                    }, {
+                      "name" : "spotliedjes"
+                    }, {
+                      "name" : "Rijksduitsers"
+                    }, {
+                      "name" : "NSB-ers"
+                    }, {
+                      "name" : "Stichting Nationaal Monument Kamp Vught ©"
+                    }, {
+                      "name" : "Vught"
+                    }, {
+                      "name" : "Cromvoirt"
+                    }, {
+                      "name" : "Den Bosch"
+                    }, {
+                      "name" : "Tilburg"
+                    }, {
+                      "name" : "Den Haag"
+                    }, {
+                      "name" : "Roosendaal"
+                    }, {
+                      "name" : "Sint-Michielsgestel"
+                    }, {
+                      "name" : "Volkel"
+                    }, {
+                      "name" : "Herwijnen"
+                    }, {
+                      "name" : "Orthen"
+                    }, {
+                      "name" : "Esch"
+                    }, {
+                      "name" : "Gouda"
+                    }, {
+                      "name" : "Soest"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "communisme (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "vrouwen (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "Socio-cultural sciences"
+                    }, {
+                      "name" : "Communistische Partij Nederland (CPN)"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Nederland"
+                    }, {
+                      "name" : "Noord-Holland (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "oral history (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "persoonlijke verhalen (Cogis trefwoorden)"
+                    }, {
+                      "name" : "levensverhalen (Cogis trefwoorden)"
+                    }, {
+                      "name" : "prof. dr. Saskia Wieringa (projectleider Aletta)"
+                    }, {
+                      "name" : "drs. Grietje Keller (projectleider Aletta)"
+                    }, {
+                      "name" : "drs. Josien Pieterse (interviewer)"
+                    }, {
+                      "name" : "Aletta, instituut voor vrouwengeschiedenis"
+                    }, {
+                      "name" : "politiek (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Velser Affaire"
+                    }, {
+                      "name" : "opsporing (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "Politieke Opsporingsdienst (POD)"
+                    }, {
+                      "name" : "herdenkingen (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "socialisme (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "acties (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "ontslag (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "illegale pers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "georganiseerd verzet (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "koeriers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "krantenbezorgers (trefwoorden IISG)"
+                    }, {
+                      "name" : "liquidaties (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "Binnenlandse Strijdkrachten (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "verzetsgroepen (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "verraad (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "echtscheidingen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "meisjes (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "anarchisme (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "zussen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "tweede wereldoorlog (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "gewapend verzet (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "onderduikers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "onderduik (Beeldbank Tweede Wereldoorlog NIOD)"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "tweede wereldoorlog (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "subculturen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "illegale pers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "verzet (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "vrouwen (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "communisme (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "communes (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "intellectuelen (trefwoorden IISG)"
+                    }, {
+                      "name" : "politiek (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Communistische Partij Nederland (CPN)"
+                    }, {
+                      "name" : "Socio-cultural sciences"
+                    }, {
+                      "name" : "Nederland"
+                    }, {
+                      "name" : "oral history (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Noord-Holland (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Zuid-Holland (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Gelderland (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Aletta, instituut voor vrouwengeschiedenis"
+                    }, {
+                      "name" : "drs. Josien Pieterse (interviewer)"
+                    }, {
+                      "name" : "drs. Grietje Keller (projectleider Aletta)"
+                    }, {
+                      "name" : "prof. dr. Saskia Wieringa (projectleider Aletta)"
+                    }, {
+                      "name" : "tijdsbesteding (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "acties (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Vrouwen voor Vrede"
+                    }, {
+                      "name" : "Rooie Vrouwen"
+                    }, {
+                      "name" : "anticommunisme (trefwoorden IISG)"
+                    }, {
+                      "name" : "politieke partijen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "levensverhalen (Cogis trefwoorden)"
+                    }, {
+                      "name" : "persoonlijke verhalen (Cogis trefwoorden)"
+                    }, {
+                      "name" : "feesten (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "discriminatie (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "leidinggevende beroepen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "vrouwenbewegingen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "vrijwilligerswerk (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "vrije tijd (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Binnenlandse Veiligheidsdienst (BVD)"
+                    }, {
+                      "name" : "publieke opinie (Cogis trefwoorden)"
+                    }, {
+                      "name" : "politieke participatie (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "politici (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "raadsleden"
+                    }, {
+                      "name" : "besturen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Nederlandse Vrouwenbeweging (NVB)"
+                    }, {
+                      "name" : "familierelaties (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "rolverdeling (trefwoordenlijst IISG)"
+                    }, {
+                      "name" : "partners van (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "onderduik (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "onderduikers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "kranten (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "hongerwinter (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "huwelijken (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "redacteuren (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "koeriers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Nederland"
+                    }, {
+                      "name" : "Aletta, instituut voor vrouwengeschiedenis"
+                    }, {
+                      "name" : "Duitsland (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Noord-Holland (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "oral history (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "persoonlijke verhalen (Cogis trefwoorden)"
+                    }, {
+                      "name" : "levensverhalen (Cogis trefwoorden)"
+                    }, {
+                      "name" : "arbeiders (trefwoorden IISG)"
+                    }, {
+                      "name" : "feminisme (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "herdenkingen (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "reizen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "onderwijs (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "voorlichting (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "vrijwilligerswerk (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "acties (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "huwelijken (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "besturen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "vredesbeweging (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Nederlandse Vrouwen Beweging (NVB)"
+                    }, {
+                      "name" : "vrouwenbewegingen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "tweede wereldoorlog (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "verzet (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "dwangarbeid (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "Ravensbrück (Cogis trefwoorden)"
+                    }, {
+                      "name" : "concentratiekampen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "onderduik (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "illegale pers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "arrestaties (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "koeriers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "Februaristaking (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "abolitionisme (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Communistische Jeugdbond (CJB)"
+                    }, {
+                      "name" : "jeugdbewegingen (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "onderduikers (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "lagere klasse (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "vrouwen (Beeldbank Tweede Wereldoorlog NIOD)"
+                    }, {
+                      "name" : "communisme (Vrouwenthesaurus Aletta)"
+                    }, {
+                      "name" : "Communistische Partij Nederland (CPN)"
+                    }, {
+                      "name" : "Social sciences"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "De heer de Vries"
+                    }, {
+                      "name" : "De heer Pijters"
+                    }, {
+                      "name" : "Flip Logger"
+                    }, {
+                      "name" : "Ies Logger"
+                    }, {
+                      "name" : "Gaarkeuken"
+                    }, {
+                      "name" : "Herdenking Kindermonument"
+                    }, {
+                      "name" : "Nederlandse Handel Maatschappij"
+                    }, {
+                      "name" : "Bosplan"
+                    }, {
+                      "name" : "Onderduik"
+                    }, {
+                      "name" : "Lekstraat"
+                    }, {
+                      "name" : "Uiterwaardenstraat"
+                    }, {
+                      "name" : "Trompenburgstraat"
+                    }, {
+                      "name" : "Vechtstraat"
+                    }, {
+                      "name" : "Joubertstraat"
+                    }, {
+                      "name" : "Albert Cuyp"
+                    }, {
+                      "name" : "Speeltuin"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Joodse Markt"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Familie Luif"
+                    }, {
+                      "name" : "Fransje ten Haaf"
+                    }, {
+                      "name" : "Annie ten Haaf"
+                    }, {
+                      "name" : "Kromme Mijdrechtstraat"
+                    }, {
+                      "name" : "Amstellaan"
+                    }, {
+                      "name" : "Vondelschool"
+                    }, {
+                      "name" : "Dongeschool"
+                    }, {
+                      "name" : "NSB-er"
+                    }, {
+                      "name" : "Joodse vrouw"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Joodse Markt"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Carla van Delft"
+                    }, {
+                      "name" : "Overvalwagen"
+                    }, {
+                      "name" : "Razzia"
+                    }, {
+                      "name" : "Waalstraat"
+                    }, {
+                      "name" : "Trompenburgstraat"
+                    }, {
+                      "name" : "Jekerstraat"
+                    }, {
+                      "name" : "Uiterwaardenstraat"
+                    }, {
+                      "name" : "Joodse vrouw"
+                    }, {
+                      "name" : "Speeltuin"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Transvaalbuurt"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Joodse vrouw"
+                    }, {
+                      "name" : "Joodse Markt"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Jodenster"
+                    }, {
+                      "name" : "Verzet"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Joodse vrouw"
+                    }, {
+                      "name" : "Joodse Markt"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Collectie Jan Carel Warffemius"
+                    }, {
+                      "name" : "Jan Carel Warffemius"
+                    }, {
+                      "name" : "Sauna Scheers"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Triumph"
+                    }, {
+                      "name" : "Beukenhorst"
+                    }, {
+                      "name" : "Haagsche Bos"
+                    }, {
+                      "name" : "Scheveningsche Bosjes"
+                    }, {
+                      "name" : "Skala"
+                    }, {
+                      "name" : "Heck's"
+                    }, {
+                      "name" : "Oegstgeest"
+                    }, {
+                      "name" : "Forty-four"
+                    }, {
+                      "name" : "Prinses Mariannelaan"
+                    }, {
+                      "name" : "Voorburg"
+                    }, {
+                      "name" : "Prinsesseschouwburg"
+                    }, {
+                      "name" : "Spyker"
+                    }, {
+                      "name" : "Pop en Do"
+                    }, {
+                      "name" : "Soir de Paris"
+                    }, {
+                      "name" : "Kruisvaarders van St. Jan"
+                    }, {
+                      "name" : "Contemporary history"
+                    }, {
+                      "name" : "Modern history"
+                    }, {
+                      "name" : "Voorburg,Zuid-Holland"
+                    }, {
+                      "name" : "Oegstgeest,Zuid-Holland"
+                    }, {
+                      "name" : "Den Haag,Zuid-Holland"
+                    } ]
+                  } ]
+                }, {
+                  "descriptions" : [ {
+                    "accessPoints" : [ {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Stichting Kindermonument"
+                    }, {
+                      "name" : "Oral history"
+                    }, {
+                      "name" : "Gaaspstraat"
+                    }, {
+                      "name" : "Rivierenbuurt"
+                    }, {
+                      "name" : "Amsterdam"
+                    }, {
+                      "name" : "Joodse vrouw"
+                    }, {
+                      "name" : "Joodse Markt"
+                    }, {
+                      "name" : "Jodenvervolging"
+                    }, {
+                      "name" : "Tweede Wereldoorlog"
+                    }, {
+                      "name" : "Modern and contemporary history"
+                    } ]
+                  } ]
+                } ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : true,
+                  "nextPage" : "MTYz"
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            }, {
+              "children" : {
+                "items" : [ ],
+                "pageInfo" : {
+                  "hasPreviousPage" : true,
+                  "previousPage" : "ODM=",
+                  "hasNextPage" : false,
+                  "nextPage" : null
+                }
+              }
+            } ],
+            "pageInfo" : {
+              "hasPreviousPage" : true,
+              "previousPage" : "MjA2",
+              "hasNextPage" : false,
+              "nextPage" : null
+            }
+          }
+        } ],
+        "pageInfo" : {
+          "hasPreviousPage" : false,
+          "previousPage" : null,
+          "hasNextPage" : false,
+          "nextPage" : null
+        }
+      }
+    }
+  }
+}
