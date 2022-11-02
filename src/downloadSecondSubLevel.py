@@ -3,7 +3,8 @@ import json
 import sys
 import requests
 import os
-from jsonpath_ng import jsonpath, parse
+from jsonpath_ng import jsonpath
+from jsonpath_ng.ext import parse
 
 ehri_terms_first_part = """{
     Repository(id: \""""
@@ -25,6 +26,7 @@ ehri_terms_last_part = """\") {
                                 descriptions {
                                     accessPoints {
                                         name
+                                        type
                                     }
                                 }
                             }
@@ -60,7 +62,7 @@ def extract_terms_from_json(type_name, number_of_files):
         filename = type_name + "/" + type_name + "_" + str(i) + ".json"
         with open(filename, "r", encoding="utf-8") as file:
             json_data = json.loads(file.read())
-            jsonpath_exp = parse("$.data.Repository.documentaryUnits.items[*].children.items[*].children.items[*].descriptions[*].accessPoints[*].name")
+            jsonpath_exp = parse("$.data.Repository.documentaryUnits.items[*].children.items[*].children.items[*].descriptions[*].accessPoints[?(@.type=='subject')].name")
             result = jsonpath_exp.find(json_data)
             with open("resultSecondSubLevel.txt", "w", encoding="utf-8") as output_file:
                 output_file.write("") #Removes old content
@@ -95,7 +97,10 @@ def download_from_graphql(type_name, url, query_start, query_second_part, query_
                 json_content = r.text
                 data = json.loads(json_content)
                 size_level_3 = len(data['data']['Repository']['documentaryUnits']['items'][j - 1]['children']['items'])
-                next_page_3_level = data['data']['Repository']['documentaryUnits']['items'][j - 1]['children']['items'][k - 1]['children']['pageInfo']['hasNextPage']
+                try:
+                    next_page_3_level = data['data']['Repository']['documentaryUnits']['items'][j - 1]['children']['items'][k - 1]['children']['pageInfo']['hasNextPage']
+                except IndexError:
+                    next_page_3_level = False 
                 if(next_page_3_level):
                     after_3_level = data['data']['Repository']['documentaryUnits']['items'][j - 1]['children']['items'][k - 1]['children']['pageInfo']['nextPage']
                 else:

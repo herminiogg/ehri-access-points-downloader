@@ -3,7 +3,8 @@ import json
 import sys
 import requests
 import os
-from jsonpath_ng import jsonpath, parse
+from jsonpath_ng import jsonpath
+from jsonpath_ng.ext import parse
 
 ehri_terms_first_part = """{
   Repository(id: \""""
@@ -21,6 +22,7 @@ ehri_terms_last_part = """\") {
             descriptions {
               accessPoints {
                 name
+                type
               }
             }
           }
@@ -48,7 +50,7 @@ def extract_terms_from_json(type_name, number_of_files):
         filename = type_name + "/" + type_name + "_" + str(i) + ".json"
         with open(filename, "r", encoding="utf-8") as file:
             json_data = json.loads(file.read())
-            jsonpath_exp = parse("$.data.Repository.documentaryUnits.items[*].children.items[*].descriptions[*].accessPoints[*].name")
+            jsonpath_exp = parse("$.data.Repository.documentaryUnits.items[*].children.items[*].descriptions[*].accessPoints[?(@.type=='subject')].name")
             result = jsonpath_exp.find(json_data)
             with open("resultFirstSubLevel.txt", "w", encoding="utf-8") as output_file:
                 output_file.write("") #Removes old content
